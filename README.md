@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Klorur2Sodium
-- 👀 I’m interested in nothing
 - 🌱 I’m currently learning Python/C
 
 <!---
