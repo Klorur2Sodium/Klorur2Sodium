@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Klorur2Sodium
-- 🌱 I’m currently learning C/Java
+- 🌱 I’m currently learning Java/Python
 
 <!---
 Klorur2Sodium/Klorur2Sodium is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
